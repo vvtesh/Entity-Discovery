@@ -9,3 +9,5 @@ Assuming you have all titles in a file named "titles.txt" and seed entities in f
 For demo:
 	1. Move "titles.txt" and "KnownEntities.txt" from the "demo" folder to project folder (i.e. just move the files outside demo folder).
 	2. Compare the remaining files in "demo" folder with the ones generated after running the code (mainly discovered entities).
+
+
